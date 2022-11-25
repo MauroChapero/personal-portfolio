@@ -6,10 +6,10 @@ export default [
          link: 'https://fkcodes.com',
     },*/
     {
-        title: 'Developer Portfolio',
-        imgUrl: '/assets/dev-portfolio.jpg',
+        title: 'Personal Portfolio',
+        imgUrl: '/assets/personal-portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://thehackershideout.com',
+        link: 'https://portfolio-mauro-chapero.vercel.app/',
     },
     // {
     //     title: 'AI Nerf Gun',
