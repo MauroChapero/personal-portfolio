@@ -1,12 +1,12 @@
 export default [
   {
-    year: "Today",
-    title: "Tecnicatura en Desarrollo de Aplicaciones Web",
-    company: "Universidad de La Matanza",
-    courseType: 'Ingreso',
-    duration: "6 years",
+    year: "2023",
+    title: "Ingeniería en Sistemas de Información",
+    company: "Universidad Técnica Nacional (UTN)",
+    courseType: 'Carrera',
+    duration: "5 years",
     details:
-      "Curso de ingreso de Ingenieria en la UNLAM para la Tecnicatura de Desarrollo de Aplicaciones Web",
+      "Curso de ingreso de Ingeniería en la UTN para la carrera de Ingeniería en Sistemas de Información.",
   },
   {
     year: "2022",
