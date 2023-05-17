@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Intro from "./components/Intro";
-import Timeline from "./components/Timeline";
+import TimelineSection from "./components/TimelineSection";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -70,7 +70,7 @@ function App() {
         <div className="max-w-5xl w-11/12 mx-auto">
           <Intro />
           <Portfolio />
-          <Timeline />
+          <TimelineSection />
           <Contact />
           <Footer />
         </div>
