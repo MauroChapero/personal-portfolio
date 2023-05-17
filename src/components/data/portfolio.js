@@ -9,7 +9,8 @@ export default [
         title: 'Personal Portfolio',
         imgUrl: '/assets/personal-portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://portfolio-mauro-chapero.vercel.app/',
+        deploy: 'https://portfolio-mauro-chapero.vercel.app/',
+        repository: 'https://github.com/MauroChapero/personal-portfolio'
     },
     // {
     //     title: 'AI Nerf Gun',
