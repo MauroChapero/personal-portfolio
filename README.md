@@ -18,3 +18,4 @@ Formulario creado con https://getform.io/
 ## Extra:
 [] Refactorizar componente Timeline -> TimelineSection para su reutilizacion de codigo
 [] Mejorar Dark Mode.
+[] Agregar Sidebar seccionada
