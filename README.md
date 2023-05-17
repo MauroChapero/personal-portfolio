@@ -12,3 +12,6 @@ Hola, este es mi portafolio personal utilizando React, Vite y Tailwind.
 [] Agregar seccion 'Cursos y Certificaciones'
 [] Actualizar informacion acorde a la seccion 'Cursos y Certificaciones'
 [] Implementar una Foto de perfil acorde al tema.
+
+## Extra:
+[] Mejorar Dark Mode.
