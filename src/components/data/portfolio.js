@@ -1,21 +1,18 @@
 export default [
-     /*{
-         title: 'Terminal Website',
-         imgUrl: '/assets/terminal-website.jpg',
-         stack: ['HTML', 'CSS', 'JavaScript'],
-         link: 'https://fkcodes.com',
-    },*/
     {
+        id: 'personal-portfolio',
         title: 'Personal Portfolio',
         imgUrl: '/assets/personal-portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
         deploy: 'https://portfolio-mauro-chapero.vercel.app/',
         repository: 'https://github.com/MauroChapero/personal-portfolio'
     },
-    // {
-    //     title: 'AI Nerf Gun',
-    //     imgUrl: '/assets/ai-nerf-gun.jpg',
-    //     stack: ['Python', 'C++', 'Robotics'],
-    //     link: 'https://youtu.be/A8eegxL82PI',
-    // },
+    {
+        id: 'react-router-clone',
+        title: 'React Router Clone',
+        imgUrl: '/assets/react-router-clone.png',
+        stack: ['React', 'Vite', 'Vitest'],
+        deploy: 'https://react-router-clone.vercel.app/',
+        repository: 'https://github.com/MauroChapero/react-router-clone'
+    },
 ]
