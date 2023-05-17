@@ -10,7 +10,7 @@ export default [
     {
         id: 'react-router-clone',
         title: 'React Router Clone',
-        imgUrl: '/assets/react-router-clone.png',
+        imgUrl: '/assets/react-router-clone-img.png',
         stack: ['React', 'Vite', 'Vitest'],
         deploy: 'https://react-router-clone.vercel.app/',
         repository: 'https://github.com/MauroChapero/react-router-clone'
