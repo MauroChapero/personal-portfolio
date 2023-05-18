@@ -1,0 +1,4 @@
+a:hover {
+    transform: scale(1.02);
+    border: 5px solid #64748B;
+}
