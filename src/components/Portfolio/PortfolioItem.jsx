@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/PortfolioItem.css'
+import '../../styles/PortfolioItem.css'
 
 function PortfolioItem({ title, imgUrl, stack, deploy, repository }) {
   return (
