@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Intro from "./components/Intro";
-import TimelineSection from "./components/TimelineSection";
-import Portfolio from "./components/Portfolio";
+import TimelineSection from "./components/Timeline/TimelineSection";
+import Portfolio from "./components/Portfolio/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
