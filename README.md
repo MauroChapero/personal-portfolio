@@ -2,7 +2,8 @@
 
 Hola, este es mi portafolio personal utilizando React, Vite y Tailwind.
 
-Formulario creado con https://getform.io/
+- Formulario creado con [GetForm.io](https://getform.io/)
+- [Deploy](https://portfolio-mauro-chapero.vercel.app/) hecho en [Vercel](https://vercel.com/)
 
 ## TODO:
 [✔] Actualizar informacion About me.
